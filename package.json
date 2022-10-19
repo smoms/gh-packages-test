@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/smoms/gh-packages-test/issues"
   },
-  "homepage": "https://github.com/smoms/gh-packages-test#readme"
+  "homepage": "https://github.com/smoms/gh-packages-test#readme",
+  "publishConfig": {
+    "@smoms:registry": "https://npm.pkg.github.com"
+  }
 }
